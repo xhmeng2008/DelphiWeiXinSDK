@@ -1,7 +1,7 @@
 微信公众平台 Delphi SDK  
 
 使用方法  
-used
+uses  
   WX.App, WX.Common;  
   
 var  
